@@ -7,4 +7,8 @@
     “🎮 Hobby” : “Games Developer”
  }
 ```
+
+<img src="./img/barra_colores.gif">
+
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=278348275600326658)
+
