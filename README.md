@@ -1,4 +1,4 @@
-# <img src="./img/Static/about_me.gif" /> About me 👾
+# <img src="./img/Static/about_me.gif" width="50px"/> About me 👾
 ```shell
  {
     “💪🏻 Name” : “Joshua Rodriguez Nicolini”,
