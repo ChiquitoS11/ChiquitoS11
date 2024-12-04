@@ -3,12 +3,12 @@
  {
     “💪🏻 Name” : “Joshua Rodriguez Nicolini”,
     “🖥️ Role” : “Programmer”,
-    “🧠 Learning” : “C#, Python”,
+    “🧠 Learning” : “C#, C++, Java”,
     “🎮 Hobby” : “Games Developer”
  }
 ```
-<!--  Snake -->
 
+<!--  Snake -->
 <img src="./img/Dynamic/snake.svg" style="background:#161b22;">
 
 <img src="./img/Static/barra_colores.gif">
